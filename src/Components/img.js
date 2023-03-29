@@ -1,0 +1,17 @@
+export default [
+    "https://www.google.com/logos/doodles/2020/stay-and-play-at-home-with-popular-past-google-doodles-coding-2017-6753651837108765-2xa.gif",
+    "https://www.google.com/logos/doodles/2016/37th-anniversary-of-the-neverending-storys-first-publishing-5663469401538560-hp.jpg",
+    "https://www.google.com/logos/2012/ada_lovelaces_197th_birthday-991005-hp.jpg",
+    "https://www.google.com/logos/2003/einstein.gif",
+    "https://lh3.googleusercontent.com/pe4mwBzpP0T_TY4oajEtHJiXK7AnW8Ymr5HE2LCeJbkIyxb60yTP3-W37WuUdmX46UvmdeCBzCXaHLOYz4RBJabHr75GPstbTHL3cW-xr6Yr5sfCGRvqWcc",
+    "https://lh3.googleusercontent.com/TwCpPV778LvaQE3dpFnzP_rj4Aa9btDpEvCVAH79SUrYzOAwbE0E_ye-XYV4MATkkzWYbTyAk7A_iBtJrlW6PsD9DbJmFoEvLDJG_kPI",
+    "https://lh3.googleusercontent.com/oLYyelHMR2gWP1Q_h-KSP6vQp_5biixLoyfB73UXOlNKsq2HbZ-9jqnSP78cMXDaHa2-ccAOtRt-Mhh5xubcZR64Fn8-RsBCr-ImnP46cUIE0vPEZV-AuQ",
+    "https://lh3.googleusercontent.com/W68sV48E_HJOUMd5bPh1PzcSAtjo5KmA3wX-VKFgoixDlu3eaLK7STnIolo76PY-IinoBXuvGQ4uNTkUiuanT7A1wEXh4Q88Gf1m0kcmgrvdLI0GZwLq3Q",
+    "https://lh3.googleusercontent.com/1IdnfewA_Xs8uDIeKZ85WMNFZPe-_Sc8jW3j4TDpN5Y0JfT1dClcMQnyoSInI1zRAkiCO7jL40_ryYFPL05jhxEQIoSvq8UrKFxd2Qkd-k1DjkA9Np5b",
+    "https://lh3.googleusercontent.com/6UF019j22BXF8BbrLSG9PfV6nWLWK_Z0zD7ItY9crigB8BH890vDcqdj6K96ZLHrssN73NRCwdIAN5KlK0JIRvGjR6P-jb2NhfKFoqAwGAzHNP2BM8jzi5o",
+    "https://lh3.googleusercontent.com/RjCfQRCeELMX_dCSduyYGmWaXnRPCpi_RcfezaXDYL-7OI_yPK3S2PvxCcLcQuQdruRfQbrSTCWnGdmXXVEcEujfY4KhpjSHYO3ngsUDeeFWoY7aE0NMdDg",
+    "https://lh3.googleusercontent.com/APR3CKgeWXIK66aB92ALxZR1aR2mqRcOXM4AvY3eJFW_XZxaENIFMfhN226naWVKcKYgyX_7HA6phqQ9bL_Rwmv4BIAV0YPJxeBt_lqHvVirxOhLL7sRCw",
+    "https://lh3.googleusercontent.com/5Z0OQ7-cKea_Klir0gvsil8nwIFYwSA7G71XeXxK5d2eONu7jhjaZ9BghxFocJ0dz52JHw4CQNKSvTmrt2fNX_TPdMbnHqJDyVl-fZcOMJrZbyH12Yc8aLU",
+    "https://lh3.googleusercontent.com/-3g7Rp1h01yp4u7z46yKSsJIQOIUhjnF6WPg0xrh-j54b-XsWtJDqvT52fUxNJNKoYxAtrCA8iaQcNceu7WZK7SytzfK0ft91SnZfIzfsazMbc8NbuaP",
+    "https://assets.stickpng.com/images/580b57fcd9996e24bc43c51f.png",
+  ];
